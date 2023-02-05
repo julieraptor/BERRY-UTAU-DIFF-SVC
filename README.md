@@ -5,7 +5,7 @@ Thank you for using BERRY! Please be sure to tag me in anything you make with th
 If you used this model for pre-training, **please indicate that you used BERRY by julieraptor for pre-training** wherever you post samples of your voice model.
 
 <p align="center">
-<img src ="https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC.png" height="600" />
+<img src ="https://github.com/julieraptor/BERRY-UTAU-DIFF-SVC/blob/main/Art/berry_full.png?raw=true" height="600" />
 <br>
 <i>BERRY Official Art by julieraptor</i>
 </p>

@@ -45,7 +45,7 @@ While she is off-duty, she provides entertainment by singing songs and performin
 - **Logical Range:** TBD
 
 **44.1kHz model @ 600k steps:**
- Corpus (raw audio data) consists of voice actor speaking, singing, UTAU renders, and UTAU voice data.
+<br>Corpus (raw audio data) consists of voice actor speaking, singing, UTAU renders, and UTAU voice data.
 - **Total:** 2:32:05
 
 # 【TERMS OF USE】

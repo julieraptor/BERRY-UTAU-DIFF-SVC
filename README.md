@@ -32,7 +32,11 @@ To be uploaded soon
 
 **Eye color:** Pink + heart shaped pupils
 
-**LIEE DIFF-SVC AI** is a commercially mass-produced multi-language android developed by scientists for the intentions of companionship and entertainment. Though not all LIEEs have the capability, the newer model androids called "**L**earning and **I**nference **E**xampl**E**" have been able to uncannily simulate human emotion, especially through singing. Some have appeared as idols and actors in TV and movies.
+**BERRY** is a cute cat-girl android who is also a pop star.
+ 
+As part of a weapon of an interplanetary defense system, BERRY is part of a team of other androids who combine to become a mecha.
+ 
+While she is off-duty, she provides entertainment by singing songs and performing as an actress.
 
 ### Voice and Training Attributes
 

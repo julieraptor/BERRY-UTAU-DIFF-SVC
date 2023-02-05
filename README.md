@@ -41,8 +41,8 @@ While she is off-duty, she provides entertainment by singing songs and performin
 ### Voice and Training Attributes
 
 **UTAU Voicebank:**
-- **Pitches: ** B3, F4
-- **Logical Range: **
+- **Pitches:** B3, F4
+- **Logical Range:** TBD
 
 **44.1kHz model @ 600k steps:**
  Corpus (raw audio data) consists of voice actor speaking, singing, UTAU renders, and UTAU voice data.

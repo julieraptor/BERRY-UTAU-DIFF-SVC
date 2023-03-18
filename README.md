@@ -4,7 +4,7 @@
 Thank you for using BERRY! Please be sure to tag me in anything you make with this voice model.
 If you used this model for pre-training, **please indicate that you used BERRY by julieraptor for pre-training** wherever you post samples of your voice model.
 <p>
-To download, navigate to **Releases** on the right-hand side and choose the file you wish to download.
+To download, navigate to <b>Releases</b> on the right-hand side and choose the file you wish to download.
 
 <p align="center">
 <img src ="https://github.com/julieraptor/BERRY-UTAU-DIFF-SVC/blob/main/Art/berry_full.png?raw=true" height="600" />
@@ -14,7 +14,11 @@ To download, navigate to **Releases** on the right-hand side and choose the file
 
 # 【SAMPLE】 
 
-To be uploaded soon
+
+
+https://user-images.githubusercontent.com/42128030/226126526-1e76ef2d-7068-4a0c-a1a4-e5c37f49394a.mp4
+
+
 
 # 【NOTES】 
 ### Character Details

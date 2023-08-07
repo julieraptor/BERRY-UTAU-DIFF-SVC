@@ -16,6 +16,8 @@ To download, navigate to <b>Releases</b> on the right-hand side and choose the f
 
 https://user-images.githubusercontent.com/42128030/226126526-1e76ef2d-7068-4a0c-a1a4-e5c37f49394a.mp4
 
+Release video: [https://www.youtube.com/watch?v=saqofA6f64M](https://www.youtube.com/watch?v=saqofA6f64M)
+
 
 # 【NOTES】 
 ### Character Details
